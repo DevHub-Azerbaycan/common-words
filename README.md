@@ -1,50 +1,50 @@
-# Слова, часто используемые в CSS-классах
+# CSS-klasslarında çox istifadə olunan sözlər
 
 ## Изображения
 
-`image`, `img`, `picture`, `pic` — картинка
+`image`, `img`, `picture`, `pic` — şəkil
 
-`icon` — иконка
+`icon` — nişan
 
-`logo` — логотип
+`logo` — logo
 
-`userpic`, `avatar` — юзерпик, маленькая картинка пользователя
+`userpic`, `avatar` — kiçik istifadəçi şəkli
 
-`thumbnail`, `thumb` — миниатюра, уменьшенное изображение
+`thumbnail`, `thumb` — kiçik şəkil
 
 ## Текст
 
-`title`, `subject`, `heading`, `headline`, `caption` — заголовок
+`title`, `subject`, `heading`, `headline`, `caption` — başlıq
 
-`subtitle` — подзаголовок
+`subtitle` — altyazı
 
-`slogan` — слоган
+`slogan` — слоган (naməlum tərcümə)
 
-`lead`, `tagline` — лид-абзац в тексте
+`lead`, `tagline` — mətndə aparıcı abzas
 
-`text` — текстовый контент
+`text` — mətn məzmunu
 
-`desc` — описание, вариант текстового контента
+`desc` — təsvir, mətn məzmunun elementi
 
-`excerpt` — отрывок текста, обычно используется перед ссылкой «Читать далее...»
+`excerpt` — ümumiyyətlə «Daha ətraflı ...» linkindən əvvəl istifadə olunan bir mətn parçası
 
-`quote`, `blockquote` — цитата
+`quote`, `blockquote` — sitat
 
-`snippet` — пример кода
+`snippet` — nümunə kodu
 
-`link` — ссылка
+`link` — link
 
-`copyright`, `copy` — копирайт
+`copyright`, `copy` — müəllif hüquqları (copyright)
 
-## Списки
+## Siyahılar
 
-`list`, `items` — список
+`list`, `items` — siyahı
 
-`item` — элемент списка
+`item` — siyahı elementi
 
-## Блоки
+## Bloklar
 
-`page` — корневой элемент страницы
+`page` — səhifə kök elementi
 
 `header` — шапка (страницы или элемента)
 
