@@ -18,7 +18,7 @@
 
 `subtitle` — altyazı
 
-`slogan` — слоган (naməlum tərcümə)
+`slogan` — slogan (naməlum tərcümə)
 
 `lead`, `tagline` — mətndə aparıcı abzas
 
@@ -46,7 +46,7 @@
 
 `page` — səhifə kök elementi
 
-`header` — шапка (страницы или элемента)
+`header` — qapaq
 
 `footer` — подвал (страницы или элемента)
 
